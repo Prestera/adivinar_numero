@@ -9,7 +9,7 @@ function generarNumeroAleatorio() {
 }
 
 let aleatorio = generarNumeroAleatorio();
-console.log(aleatorio);
+//console.log(aleatorio);
 let vidas = 8;
 
 btnEnviar.addEventListener("click", (e) => {
