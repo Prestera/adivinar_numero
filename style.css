@@ -1,0 +1,13 @@
+body {
+    font-family: monospace, sans-serif;
+    margin: 50;
+    padding: 50;
+    box-sizing: border-box;
+}
+
+.reiniciar-btn{
+    background: blueviolet;
+    color: antiquewhite;
+    cursor: pointer;
+    padding: 0;
+}
