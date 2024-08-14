@@ -88,7 +88,7 @@ reiniciarBtn.addEventListener("click", () => {
     numIngresadosP.innerText = "Números ingresados:";
     numeroElement.value = "";
     reiniciarBtn.remove();
-    console.log(aleatorio);
+   // console.log(aleatorio);
 });
 
 
